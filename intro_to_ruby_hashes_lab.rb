@@ -51,8 +51,7 @@ def monopoly_with_fourth_tier
       {pieces: 4, 
     :names => {
     :reading_railroad => 
-    {mortgage_value: "$100"}
-    binding.pry
+    {mortgage_value: "$100"},
     :pennsylvania_railroad => {},
     :b_and_o_railroad => {},
     :shortline => {}
@@ -67,3 +66,4 @@ def monopoly_with_fourth_tier
   }
 
 end
+brinding.pry
